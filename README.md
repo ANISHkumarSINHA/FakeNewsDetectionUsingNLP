@@ -30,6 +30,6 @@ This project is licensed under the MIT License, allowing for free use and modifi
 Acknowledgments:
 Special thanks to Kaggle for providing the dataset used in this project and to the open-source community for valuable resources and inspiration.
 
-Accuracy of almost 99%:-
+Accuracy of almost 99% for training and 98% for testing the model
 
 
