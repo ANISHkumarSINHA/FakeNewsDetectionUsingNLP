@@ -1,4 +1,4 @@
-Project Title: Fake News Detection
+ Project Title: Fake News Detection
 
 Description:
 This project aims to develop a machine learning model for detecting fake news articles. With the rise of misinformation and disinformation on the internet,
